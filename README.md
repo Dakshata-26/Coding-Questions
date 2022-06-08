@@ -1,8 +1,8 @@
 # Coding-Questions
-# Bit Manipulation:
-• Clear Bit
-• Count the Number of 1 in Binary Representation of a Number
-• Get Bit
+## Bit Manipulation:
+- Clear Bit
+- Count the Number of 1 in Binary Representation of a Number
+- Get Bit
 • Possible Subsets of an Array
 • Check if the given Number is a Power of 2
 • Set Bit
@@ -11,19 +11,14 @@
 • Unique Number in an Array-2 (other numbers are present thrice)
 • Update Bit
 
-•	Clear Bit
-•	Get Bit
-•	Creating an Artificial Neural Network  
-•	Training & Testing of the network  
-•	Recognition 
 
-# Inclusion Exclusion Principle:
+## Inclusion Exclusion Principle:
 • Numbers Between 1 and 100 Divisible by a and b
 • Euclid Algorithm to find GCD
 
 
 
-# Other Questions:
+## Other Questions:
 • Prime Factorisation using Sieve of Eratosthenes
 • Sieve of Eratosthenes
 • Rat in a Maze using Backtracking
