@@ -11,8 +11,8 @@
 • Unique Number in an Array-2 (other numbers are present thrice)
 • Update Bit
 
-•	Pre-processing of the image  
-•	Feature extraction  
+•	Clear Bit
+•	Get Bit
 •	Creating an Artificial Neural Network  
 •	Training & Testing of the network  
 •	Recognition 
