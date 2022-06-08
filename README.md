@@ -11,6 +11,12 @@
 • Unique Number in an Array-2 (other numbers are present thrice)
 • Update Bit
 
+•	Pre-processing of the image  
+•	Feature extraction  
+•	Creating an Artificial Neural Network  
+•	Training & Testing of the network  
+•	Recognition 
+
 # Inclusion Exclusion Principle:
 • Numbers Between 1 and 100 Divisible by a and b
 • Euclid Algorithm to find GCD
