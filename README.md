@@ -1,5 +1,5 @@
 # Coding-Questions
-# Bit Manipulation
+# Bit Manipulation:
 • Clear Bit
 • Count the Number of 1 in Binary Representation of a Number
 • Get Bit
@@ -11,13 +11,13 @@
 • Unique Number in an Array-2 (other numbers are present thrice)
 • Update Bit
 
-# Inclusion Exclusion Principle
+# Inclusion Exclusion Principle:
 • Numbers Between 1 and 100 Divisible by a and b
 • Euclid Algorithm to find GCD
 
 
 
-
+# Other Questions:
 • Prime Factorisation using Sieve of Eratosthenes
 • Sieve of Eratosthenes
 • Rat in a Maze using Backtracking
