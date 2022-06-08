@@ -16,7 +16,9 @@
 - Numbers Between 1 and 100 Divisible by a and b
 - Euclid Algorithm to find GCD
 
-
+## Recursion
+- Reverse a String
+- Replace pi with 3.14 in a String
 
 ## Other Questions:
 - Prime Factorisation using Sieve of Eratosthenes
