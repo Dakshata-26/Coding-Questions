@@ -19,6 +19,12 @@
 ## Recursion
 - Reverse a String
 - Replace pi with 3.14 in a String
+- Tower of Hanoi
+- Remove all Duplicates from the String
+- Move x to the End of the String
+- Generate all Substring of a String
+- Generate all Substring of a String with ASCII number
+- Print all Possible words from Phone Digits
 
 ## Other Questions:
 - Prime Factorisation using Sieve of Eratosthenes
