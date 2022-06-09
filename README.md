@@ -16,7 +16,7 @@
 - Numbers Between 1 and 100 Divisible by a and b
 - Euclid Algorithm to find GCD
 
-## Recursion
+## Recursion:
 - Reverse a String
 - Replace pi with 3.14 in a String
 - Tower of Hanoi
@@ -25,6 +25,11 @@
 - Generate all Substring of a String
 - Generate all Substring of a String with ASCII number
 - Print all Possible words from Phone Digits
+
+## Sorting:
+- Selection Sort
+- Bubble Sort
+- Insertion Sort
 
 ## Other Questions:
 - Prime Factorisation using Sieve of Eratosthenes
