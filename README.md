@@ -30,6 +30,8 @@
 - Selection Sort
 - Bubble Sort
 - Insertion Sort
+- Merge Sort
+- Quick Sort
 
 ## Other Questions:
 - Prime Factorisation using Sieve of Eratosthenes
